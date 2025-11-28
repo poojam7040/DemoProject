@@ -15,7 +15,6 @@ public class ListPractice {
 		
 		System.out.println(list);
 		
-		System.out.println(name);
 	}
 	
 }
