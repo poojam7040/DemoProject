@@ -10,8 +10,9 @@ public class ListPractice {
 		
 		List<String> list = new ArrayList();
 		list.add("Pooja");
-		list.add("Bhumi");
+		list.add("Bhjkjkumi");
 		String name = list.get(0);
+		
 		
 		System.out.println(list);
 		
